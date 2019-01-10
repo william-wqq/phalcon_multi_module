@@ -17,6 +17,7 @@ common/config/load.php 注册命名空间<br/>
 common/config/services.php 注册服务<br/>
 
 Home/Module.php 
+
 	注册模块命名空间
 	合并配置
 	注册服务
