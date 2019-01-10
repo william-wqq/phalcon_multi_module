@@ -1,6 +1,6 @@
-my.phalcon
-admin.phalcon
-api.phalcon
+my.phalcon<br/>
+admin.phalcon<br/>
+api.phalcon<br/>
 
 app目录构建多模块Home、Admin、Api
 
@@ -10,15 +10,16 @@ app目录构建多模块Home、Admin、Api
 
 加载各模块的dev、test、pro配置
 
-根据域名加载相应模块
-根据开发环境加载配置
+根据域名加载相应模块<br/>
+根据开发环境加载配置<br/>
 
-common/config/load.php 注册命名空间
-common/config/services.php 注册服务
+common/config/load.php 注册命名空间<br/>
+common/config/services.php 注册服务<br/>
 
 Home/Module.php 
-1、注册模块命名空间
-2、合并配置、注册服务
+	注册模块命名空间
+	合并配置
+	注册服务
 
 
 
